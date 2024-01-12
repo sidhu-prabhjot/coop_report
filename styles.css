@@ -3,3 +3,16 @@ h1 {
   justify-content: center;
   margin-bottom: 24px;
 }
+
+h3 {
+  margin-top: 24px;
+}
+
+.card-text {
+  margin-top: 8px;
+}
+
+.drupal-img {
+  margin-bottom: 16px;
+  border-radius: 5px;
+}
